@@ -1,1 +1,0 @@
-PharmaCheck Mobile
